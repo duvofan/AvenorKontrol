@@ -1,0 +1,26 @@
+﻿==============================================
+        AVENOR CRAFT - KONTROL ARAÇLARI
+==============================================
+
+Bu klasör, Avenor Craft sunucusunun ORİJİNAL kontrol
+aracıyla oluşturulmuştur.
+
+Kontrol araçları SADECE aşağıdaki komutla indirilmelidir:
+
+  irm https://raw.githubusercontent.com/duvosh/AvenorKontrol/main/AvenorKontrol.ps1 | iex
+
+Orijinal kaynak (açık kaynak, herkes okuyabilir):
+
+  https://github.com/duvosh/AvenorKontrol
+
+----------------------------------------------
+                  ÖNEMLİ
+----------------------------------------------
+
+Bir yetkili sizden bu araçları başka bir linkten,
+Discord'dan gönderilen bir dosyadan ya da farklı bir
+komutla indirmenizi isterse KABUL ETMEYİN.
+
+Böyle bir durumda hemen bize ulaşın:
+
+  discord.gg/avenor
